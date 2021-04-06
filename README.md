@@ -7,7 +7,7 @@ All made with Typescript
 
 ## Live Example
 
-[SEE AN LIVE EXAMPLE HERE!](http://localhost:3000)
+[SEE AN LIVE EXAMPLE HERE!](https://waves-social-media.netlify.app)
 
 ## This is the front-end folder
 
