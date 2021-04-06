@@ -13,7 +13,13 @@ All made with Typescript
 
 [back-end available here](https://github.com/guialmorim/waves-social-media-server)
 
-### BackEnd (Server folder)
+### Deploys
+
+back-end hosted with [Heroku](https://www.heroku.com)
+
+front-end hosted with [Netlify](https://www.netlify.com)
+
+### BackEnd
 
 backend was made using:
 
@@ -21,7 +27,7 @@ backend was made using:
 - MongoDB
 - GraphQL and Apollo Server
 
-### FrontEnd (Client Folder)
+### FrontEnd
 
 frontend was made using:
 
