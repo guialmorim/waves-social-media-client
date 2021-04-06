@@ -1,5 +1,5 @@
 const appConfig = {
-	APP_URL: 'https://waves-social-media.netlify.app',
+	API_URL: 'https://stormy-lowlands-63157.herokuapp.com',
 	APP_LOCAL_STORAGE_KEY: 'waves:token',
 };
 

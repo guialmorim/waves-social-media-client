@@ -11,7 +11,7 @@ import AppConfig from './config/app-config';
 import App from './App';
 
 const httpLink = new HttpLink({
-	uri: AppConfig.APP_URL,
+	uri: AppConfig.API_URL,
 });
 
 const authLink = setContext(() => {
@@ -24,7 +24,7 @@ const authLink = setContext(() => {
 });
 
 const client = new ApolloClient({
-	uri: AppConfig.APP_URL,
+	uri: AppConfig.API_URL,
 	cache: new InMemoryCache(),
 	link: authLink.concat(httpLink),
 });
